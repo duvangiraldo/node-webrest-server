@@ -5,6 +5,6 @@ keys/
 .env
 
 /postgres
-/src/generated/prisma
+
 
 dist/
